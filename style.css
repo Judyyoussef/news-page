@@ -2,5 +2,11 @@ body{
 
 }
 .container{
+    width: 1440px;
     margin: 40px auto;
+} 
+
+header{
+    border: 2px solid red;
+    margin-top: 500px; 
 }
